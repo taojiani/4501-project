@@ -1,0 +1,65 @@
+# Python-specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+.Python
+
+# macOS-specific
+.DS_Store
+
+# Windows-specific
+Thumbs. db
+
+# SQL databases
+*.sqlite
+*.db
+*.sql
+*.sqlitedb
+*.bak
+*.mdb
+
+# JSON files
+*.json
+
+# GeoAlchemy2
+.gpkg
+.shp
+.shx
+.dbf
+.prj
+.cpg
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# SQLAlchemy
+*.sqlite3
+*.sqlitedb
+
+# Matplotlib
+*.png
+*.pdf
+*.svg
+
+# SQLAlchemy
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyz
+*.pyw
+*.sqlite3
+*.sqlitedb
+
+# PostgreSQL
+*.sql
+
+# Other
+*.log
+*.cfg
+*.ini
+*.env
