@@ -1,1 +1,3 @@
-# 4501-project
+# Project Group 20
+## UNIs: [jz3722,jt3467]
+### Our project involves a comprehensive analysis of diverse datasets related to New York City. We systematically downloaded, cleaned, and filtered data, establishing a PostgreSQL database to store preprocessed datasets. SQL queries were crafted to derive insights into areas, trees, rent, and potential correlations. Visualizations were created to enhance our understanding, addressing questions about top 311 complaints, common issues in a specific zip code, rent's impact on issues, and the geographical distribution of recent 311 incidents. Our approach showcases proficiency in data handling, database design, SQL querying, and insightful visualization for comprehensive data analysis.
